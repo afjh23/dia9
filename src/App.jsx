@@ -1,10 +1,12 @@
-import React from 'react'
-import { Meals } from './components/Meals'
+import { Categories } from './components/Categories'
+import { MealDescription } from './components/MealDescription'
 
 export default function App() {
   return (
-    <Meals/>
+    <>
+
+    </>
+      
   )
 }
-
 
