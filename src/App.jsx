@@ -1,8 +1,10 @@
 import React from 'react'
+import { Meals } from './components/Meals'
 
-export const App = () => {
+export default function App() {
   return (
-    <div>App</div>
+    <Meals/>
   )
 }
+
 
