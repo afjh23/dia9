@@ -5,7 +5,7 @@ import { MealDescription } from './components/MealDescription'
 export default function App() {
   return (
     <>
-<Categories></Categories><MealDescription></MealDescription>
+
     </>
       
   )
